@@ -1,0 +1,61 @@
+@media only screen  and (max-width: 992px) and (min-width: 768px){
+    .navbar-btn-one {
+        width: 200px;
+        color: black;
+        background-color: yellow;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px 10px 30px;
+        margin-top: 30px;
+        margin-left: 40px;
+        margin-right: 15px;
+        box-shadow: .3s;
+      }
+      .navbar-btn-two {
+          width: 230px;
+        color: yellow;
+        background-color:black;
+        border: none;
+        border-radius: 5px;
+        padding: 10px 30px 10px 30px;
+        margin-top: 30px;
+        margin-right: 15px;
+      
+      }
+      .navbar-brand
+      {
+          display: none;
+      }
+      .thumbnail{
+          width: 300px;
+      }
+      .thumbnail img
+      {
+      height: 200px;
+      width: 100%;
+      }
+      .separate
+      {
+          margin-bottom: 4200px;
+      }
+  
+      .header-bg 
+      {
+        background-color: purple;
+        color: white;
+        clip-path: polygon(0 0, 0 24%, 100% 18%, 100% 100%, 100% 100%, 0 100%, 0 84%, 100% 81%, 100% 0); 
+        height: 5200px; 
+        position: absolute;
+      }
+      .footer-sp
+      {
+        background-color: purple;
+        height: 800px;
+        clip-path: polygon(0 40%, 100% 11%, 100% 100%, 0% 100%);
+        color: white;
+  
+      }
+
+
+
+}
