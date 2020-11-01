@@ -1,0 +1,71 @@
+.navbar-brand img
+{
+    height: 33px;
+    width: 123px;
+}
+.links li a 
+{
+    padding: 25px;
+    color: grey;
+}
+.picture
+{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.cards
+{
+   margin-bottom: 60px;
+    
+}
+.cards-margin
+{
+    margin-top: 300px;
+}
+.bg-white
+{
+    background-color: white;
+}
+.lessons
+{
+    margin-top: 130px;
+    background-color: whitesmoke;
+}
+.join
+{
+    background-color:#246aa3;
+    color: white;
+    margin-top: 50px;
+
+}
+.join-text
+{
+    margin-top:120px;
+}
+.input
+{
+    background-color:#8c8cff; 
+    border: none;
+    padding: 10px 50px 10px 20px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+.btn-light
+{
+    padding: 12px;
+    border-radius: 5px;
+}
+.join h6
+{
+    margin-top: 20px;
+    margin-bottom: 70px;
+}
+.lesson
+{
+    margin-top: 50px;
+
+}
+
+
+
