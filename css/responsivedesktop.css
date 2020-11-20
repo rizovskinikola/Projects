@@ -1,0 +1,44 @@
+@media  only  screen  and (min-width:992px){
+
+
+    .header-bg 
+    {
+      background-color: purple;
+      color: white;
+      clip-path: polygon(0 0, 0 24%, 100% 18%, 100% 100%, 100% 100%, 0 100%, 0 84%, 100% 81%, 100% 0); 
+      height: 3800px; 
+      position: absolute;
+    }
+
+    .separate
+    {
+      margin-bottom: 3000px;
+    }
+    .footer-left
+    {
+      color: white;
+      font-weight: bold;
+      padding: 0px 10px 0px 10px;
+      font-size: 18px;
+      margin-top: 50px;
+    }
+    .footer-right
+    {
+    color: yellow;
+    margin-top: 50px;
+    font-size: 30px;
+    padding: 0px 20px 0px 20px;
+
+    }
+
+    .footer-sp
+    {
+      background-color: purple;
+      height: 600px;
+      clip-path: polygon(0 40%, 100% 11%, 100% 100%, 0% 100%);
+      color: white;
+
+    }
+
+
+}
